@@ -1,3 +1,5 @@
+; bootloader
+
 ORG 0X7C00
 bits 16
 
